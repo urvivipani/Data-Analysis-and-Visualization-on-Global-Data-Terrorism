@@ -1,0 +1,34 @@
+
+*************************
+INTRODUCTION
+*************************
+
+Living in 21st century and the word 'Terrorism' hasn't cross your mind is inevitable. We have either heard of these inhumanitarian act or have been victims soem or the other way. Inspite of terrorism being age-old activity, it is beacause of the significant advancements of technology in recent years the one has been able to access deeper insights about the terrorist activities around the globe, however remote be it. The shocking photos and videos captured in the aftermeth of any attack reveals about the damage done to man-kind.
+
+The counter-part of the coin is that this feeling of insecurity and fear has boosted the technological advancements to help prevent it or reduce the after effects. 
+
+So why this dataset and data about terrorism? What are the audience that being catered through this analysis? From a Data Analysis perspective, these terrorist attacks can be viewed as data point with time (years) being the timescale. And this analysis can answer various questions in our constant struggle to stablize this world.
+
+This Jupyter Notebook is a small approach to answer various questions or if not answer, atleast clear the blurry image related to terrorism.
+
+**********************
+Questions that will help doing EXPLORATORY ANALYSIS
+**********************
+The questions below will be of interest for various groups of people like governments, military, intelligence agencies and normal public.
+
+1) How much has the number of terrorist attacks increased over the past 22 years? 
+2) How are these attacks spread over the globe?
+3) What is the success and failure rates?
+4) What types of weapons are most popular?
+
+The final question is that since US has been able to restrict the amount of attacks after the 09/11, which served as the threshold of being reselient, can the other countries facing issue of terrorism use the US methods of counter-terrorism? 
+
+
+***********************
+Predictive Questions
+***********************
+
+1) Can the number of casulties be predicted based on the characteristics of the attack i.e. weapon used, no of attackers, victim place ?
+
+2) Can we look and predict how tourism in a country will be affected because of terrorism?
+
